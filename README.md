@@ -12,5 +12,11 @@ Hey, I'm **Lars** aka Urwissen!
 
 Coding Areas:
 - https://teamtreehouse.com/larsgessner
+- https://www.codecademy.com/profiles/Urwissen
 - https://scrimba.com/discord
 
+### Certifications & Achievements
+
+<img width="1372" alt="Bildschirmfoto 2022-03-07 um 16 44 49" src="https://user-images.githubusercontent.com/17276621/157067637-a271b848-8bed-4d78-afc5-53297c044042.png">
+
+[Mimo - 4. Sep 2019 at 20:30.pdf](https://github.com/Urwissen/about-me/files/8198932/Mimo.-.4.Sep.2019.at.20.30.pdf)
