@@ -1,7 +1,7 @@
 # About Me - Lars
 Hey, I'm **Lars** aka Urwissen!
-* 🔭 I’m currently working on React.js, TypeScript.
-* 🚀 My next ways follow to Firebase and Node.js.
+* 🔭 I’m currently working on TypeScript, Express.js & every time on React ❤️.
+* 🚀 My next ways follow to Firebase more Node.js and GCP.
 * 📫 How to contact me: l.gessner@posteo.de
 * ⚡ Fun fact: Before 36 Years, i want to crush the Ironman.
 * 🤕 Like the hard way!
