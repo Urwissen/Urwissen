@@ -1,6 +1,7 @@
 # About Me - Lars
 Hey, I'm **Lars** aka Urwissen!
 * 🔭 I’m currently working on TypeScript, Express.js & every time on React ❤️.
+* 👨‍🎓 What i study now - **CodeCademy Pro: Front-End-Engineer & Full-Stack-Engineer**
 * 🚀 My next ways follow to Firebase more Node.js and GCP.
 * 📫 How to contact me: l.gessner@posteo.de
 * ⚡ Fun fact: Before 36 Years, i want to crush the Ironman.
@@ -15,6 +16,8 @@ https://www.codecademy.com/profiles/Urwissen
 https://www.codecademy.com/profiles/Urwissen
 ### Mimo
 [Mimo - 4. Sep 2019 at 20:30.pdf](https://github.com/Urwissen/about-me/files/8198932/Mimo.-.4.Sep.2019.at.20.30.pdf)
+### Scrimba Front-End-Developer
+https://scrimba.com/certificate/u6rx3NHQ/gfrontend
 
 
 ## Were to find?
