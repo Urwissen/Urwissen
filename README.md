@@ -2,7 +2,7 @@
 Hey, I'm **Lars** aka Urwissen!
 * 🔭 I’m currently working on TypeScript, Express.js & every time on React ❤️.
 * 👨‍🎓 What i study now - **CodeCademy Pro: Front-End-Engineer & Full-Stack-Engineer**
-* 🚀 My next ways follow to Firebase more Node.js and GCP.
+* 🚀 My next ways follow to GCP, Docker.
 * 📫 How to contact me: l.gessner[at]posteo.de
 * ⚡ Fun fact: Before 38 Years, i want to crush the Ironman. (i need more time...)
 * 🤕 Like the hard way!
