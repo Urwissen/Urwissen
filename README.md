@@ -1,6 +1,7 @@
 # About Me - Lars
 Hey, I'm **Lars** aka Urwissen!
-* 🔭 I’m currently working on TypeScript, Express.js & every time on React ❤️.
+* 🔭 I’m currently working on TypeScript, Redux & every time on React ❤️
+* 🏆 I finished the **Scrimba** Frontend Developer Career Path & **Treehouse** Frontend Development Track 🦾
 * 👨‍🎓 What i study now - **CodeCademy Pro: Front-End-Engineer & Full-Stack-Engineer**
 * 🚀 My next ways follow to GCP, Docker.
 * 📫 How to contact me: l.gessner[at]posteo.de
