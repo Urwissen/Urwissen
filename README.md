@@ -1,9 +1,9 @@
 # About Me - Lars
 Hey, I'm **Lars** aka Urwissen!
-* 🔭 I’m currently working on TypeScript, Redux & every time on React ❤️
+* 🔭 I’m currently working on Nest.js, Angular and NgRx ❤️
 * 🏆 I finished the **Scrimba** Frontend Developer Career Path & **Treehouse** Frontend Development Track 🦾
-* 👨‍🎓 What i study now - **CodeCademy Pro: Front-End-Engineer & Full-Stack-Engineer**
-* 🚀 My next ways follow to GCP, Docker.
+* 👨‍🎓 What i study now - **Azure Cloud Funamentals, Nest.js**
+* 🚀 My next ways follow to Go, Docker.
 * 📫 How to contact me: l.gessner[at]posteo.de
 * ⚡ Fun fact: Before 38 Years, i want to crush the Ironman. (i need more time...)
 * 🤕 Like the hard way!
