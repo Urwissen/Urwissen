@@ -10,7 +10,14 @@ Hey, I'm **Lars** aka Urwissen!
 * 🏳️‍🌈 Accept everybody, everywhere!
 * 🥰 Love my **wife** and **children**
 
-### Certifications & Achievements 🏆
+## Certifications & Achievements 🏆
+
+### Microsoft Azure Fundamentals
+https://www.credly.com/badges/179adc72-080d-4d79-a454-61002c538b30/linked_in_profile
+
+### Microsoft Security, Compliance, and Identity Fundamentals 
+https://www.credly.com/badges/e6062c7d-0696-40ee-9ee9-6f3dd6b6ff20/linked_in_profile
+
 ### Codecademy
 https://www.codecademy.com/profiles/Urwissen
 ### Team Treehouse
